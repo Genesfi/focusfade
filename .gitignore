@@ -1,0 +1,28 @@
+# User local settings & runtime configs (never commit local sensitivities/paths)
+focusfade_settings.ini
+
+# Build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio & IDE temporary files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Temporary scratch & debug logs
+*.log
+test_*.cs
+check_*.cs
+
+# Windows OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/

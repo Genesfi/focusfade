@@ -1,0 +1,41 @@
+=============================================================
+             🎚️ FOCUSFADE — SMART AUDIO DIMMER
+=============================================================
+A modern, ultra-lightweight Windows desktop audio tool:
+Automatically lowers background music (YouTube, YouTube Music,
+Spotify, etc.) whenever priority apps make sound (video editor,
+Discord voice calls, games, meetings, etc.).
+
+-------------------------------------------------------------
+KEY UPDATES & FEATURES:
+-------------------------------------------------------------
+1. Multi-Trigger Support:
+   - Add as many priority trigger apps as you want!
+   - Example: Add BOTH "AfterFX" (video editor) AND "Discord" (voice call).
+   - If you play your edit timeline OR a friend speaks on Discord,
+     the background music automatically dims!
+2. Natural Terminology:
+   - Clean, straightforward labels (No weird "ducking parameters" or "video editor only").
+   - "PRIORITY APPS (Triggers)" & "FADE & VOLUME SETTINGS".
+3. Minimalist Semi-Transparent PiP HUD:
+   - Ultra-compact DAW volume track strip (~280x72 px).
+   - 85% opacity (translucent glass) so you can see your timeline underneath.
+   - Shows live audio track levels for active trigger & music.
+4. 100% Native & Lightweight:
+   - Only ~39 KB standalone executable.
+   - Zero installation, no pip, no Python runtime.
+   - Near 0% CPU & ~20 MB RAM.
+
+-------------------------------------------------------------
+HOW TO USE:
+-------------------------------------------------------------
+1. In "PRIORITY APPS (Triggers)":
+   - Select an app from the dropdown (or type its name, e.g. AfterFX, Discord).
+   - Click "+ Add" to add it to your active list.
+   - You can add both AfterFX and Discord!
+2. In "BACKGROUND MUSIC (To Lower)":
+   - Select your browser or music player (e.g. msedge, chrome, Spotify).
+3. Set your preferred "Lowered Music Volume" (e.g. 15%).
+4. Click "▶ START FOCUSFADE".
+5. (Optional) Click "⧉ Volume Track PiP" to open the floating transparent overlay!
+=============================================================
